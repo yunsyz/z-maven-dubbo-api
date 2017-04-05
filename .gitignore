@@ -1,0 +1,16 @@
+#.bak
+*.bak
+*.lck
+*.log
+#bin
+bin
+#.bat
+*.bat
+#.classpath
+*.classpath
+#.project
+*.project
+#.settings
+.settings
+#target
+target
